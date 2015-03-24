@@ -32,6 +32,7 @@ Given _Number_ `weight` and _Number_ `reps`, returns Mayhew's one-repetition
 maximum as a _Number_.
 
 
+   [1]: https://en.wikipedia.org/wiki/One-repetition_maximum#Mayhew_et_al.
    [travis]: https://travis-ci.org/KenanY/mayhew
    [travis-svg]: https://img.shields.io/travis/KenanY/mayhew.svg
    [gemnasium]: https://gemnasium.com/KenanY/mayhew
