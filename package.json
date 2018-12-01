@@ -24,7 +24,7 @@
     "@kenan/eslint-config": "^5.0.0",
     "almost-equal": "^1.0.0",
     "eslint": "^4.7.0",
-    "lodash.isfunction": "^3.0.1",
+    "lodash": "^4.17.11",
     "tape": "^4.2.0"
   }
 }

@@ -1,7 +1,8 @@
-var mayhew = require('../');
-var test = require('tape');
-var isFunction = require('lodash.isfunction');
 var almostEqual = require('almost-equal');
+var isFunction = require('lodash/isFunction');
+var test = require('tape');
+
+var mayhew = require('../');
 
 test('exports a function', function(t) {
   t.plan(1);
