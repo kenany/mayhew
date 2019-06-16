@@ -1,7 +1,6 @@
 # mayhew
 
 [![Build Status][travis-svg]][travis]
-[![Dependency Status][gemnasium-svg]][gemnasium]
 
 [Mayhew's formula][1] for calculating one-repetition maximum.
 
@@ -35,5 +34,3 @@ maximum as a _Number_.
    [1]: https://en.wikipedia.org/wiki/One-repetition_maximum#Mayhew_et_al.
    [travis]: https://travis-ci.org/KenanY/mayhew
    [travis-svg]: https://img.shields.io/travis/KenanY/mayhew.svg
-   [gemnasium]: https://gemnasium.com/KenanY/mayhew
-   [gemnasium-svg]: https://img.shields.io/gemnasium/KenanY/mayhew.svg
