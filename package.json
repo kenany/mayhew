@@ -17,14 +17,15 @@
     "test": "test"
   },
   "scripts": {
-    "pretest": "eslint *.js test/*.js",
+    "lint": "eslint *.js test/*.js",
+    "pretest": "npm run lint",
     "test": "tape test/index.js"
   },
   "devDependencies": {
-    "@kenan/eslint-config": "6.0.0",
+    "@kenan/eslint-config": "7.0.0",
     "@kenan/renovate-config": "1.1.1",
     "almost-equal": "1.1.0",
-    "eslint": "5.16.0",
+    "eslint": "6.6.0",
     "lodash": "4.17.15",
     "tape": "4.11.0"
   }
