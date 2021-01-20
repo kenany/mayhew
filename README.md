@@ -1,7 +1,5 @@
 # mayhew
 
-[![Build Status][travis-svg]][travis]
-
 [Mayhew's formula][1] for calculating one-repetition maximum.
 
 ## Example
@@ -32,5 +30,3 @@ maximum as a _Number_.
 
 
    [1]: https://en.wikipedia.org/wiki/One-repetition_maximum#Mayhew_et_al.
-   [travis]: https://travis-ci.org/KenanY/mayhew
-   [travis-svg]: https://img.shields.io/travis/KenanY/mayhew.svg
