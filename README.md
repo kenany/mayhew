@@ -5,7 +5,7 @@
 ## Example
 
 ``` javascript
-var mayhew = require('mayhew');
+const mayhew = require('mayhew');
 
 mayhew(100, 10);
 // => 130
@@ -20,7 +20,7 @@ $ npm install mayhew
 ## API
 
 ``` javascript
-var mayhew = require('mayhew');
+const mayhew = require('mayhew');
 ```
 
 ### `mayhew(weight, reps)`
