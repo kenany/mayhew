@@ -4,7 +4,7 @@
 
 ## Example
 
-``` javascript
+```javascript
 const mayhew = require('mayhew');
 
 mayhew(100, 10);
@@ -13,13 +13,13 @@ mayhew(100, 10);
 
 ## Installation
 
-``` bash
+```bash
 $ npm install mayhew
 ```
 
 ## API
 
-``` javascript
+```javascript
 const mayhew = require('mayhew');
 ```
 
